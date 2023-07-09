@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 
-<img src="https://c.tenor.com/D2H0hPltOdYAAAAM/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="400" height="230"/>
+<img src="https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif" width="400" height="230"/>
 </div>
 <br>
 <p align="center">
